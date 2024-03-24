@@ -11,21 +11,23 @@
     "authentication",
     "identity"
   ],
-  "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "https://www.jaredhanson.me/"
-  },
+  "contributors": [
+    {
+      "name": "Jared Hanson",
+      "email": "jaredhanson@gmail.com",
+      "url": "https://www.jaredhanson.me/"
+    },
+    {
+      "name": "Avinash Lakhmawad",
+      "email": "avinash@codin.app"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-openidconnect.git"
+    "url": "git://github.com/Codin-App/passport-openidconnect.git"
   },
   "bugs": {
-    "url": "https://github.com/jaredhanson/passport-openidconnect/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/jaredhanson"
+    "url": "https://github.com/Codin-App/passport-openidconnect/issues"
   },
   "license": "MIT",
   "licenses": [
